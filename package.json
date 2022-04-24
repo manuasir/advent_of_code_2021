@@ -1,0 +1,39 @@
+{
+  "name": "advent_of_code_2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021 challenge using node.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuasir/advent_of_code_2021.git"
+  },
+  "standard": {
+    "env": [
+      "mocha"
+    ]
+  },
+  "keywords": [
+    "nodejs",
+    "advent",
+    "code",
+    "2021",
+    "challenge",
+    "js",
+    "es6"
+  ],
+  "author": "manuasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuasir/advent_of_code_2021/issues"
+  },
+  "homepage": "https://github.com/manuasir/advent_of_code_2021#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
