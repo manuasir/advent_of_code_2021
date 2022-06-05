@@ -31,7 +31,7 @@ describe('Day 3', () => {
       expect(diagnostic.exec()).toEqual(198)
     })
     it('Should return the correct consumption value.', () => {
-      expect(actual.exec()).toEqual(198)
+      expect(actual.exec()).toEqual(3847100)
     })
   })
 
